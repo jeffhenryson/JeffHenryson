@@ -1,4 +1,20 @@
-
+```javascript
+ 
+const WhoAmI = {
+  user: "Jeff_Henryson_Felix_Barros",
+  university_graduation: "computer_science",
+  hobbies: [
+   "Studying",
+   "Watching Animes",
+   "Playing GAMES",
+   "Reading Books"]
+}
+	
+ function getCurrentCity() {
+	return Joao_Pessoa_Brazil
+  }
+	
+ ```
 
 
 ##
