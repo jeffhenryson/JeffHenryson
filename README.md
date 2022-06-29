@@ -11,7 +11,7 @@ const WhoAmI = {
 }
 	
  function getCurrentCity() {
-	return Joao_Pessoa_Brazil
+	return Joao_Pessoa_Brazil;
   }
 	
  ```
